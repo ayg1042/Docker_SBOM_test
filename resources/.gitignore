@@ -1,0 +1,15 @@
+/*.dll
+/*.exe
+/*.iso
+/*.sha256
+/LICENSE.rtf
+/CHANGELOG.md
+/OSS-LICENSES
+/linux-daemon-options.json
+/windows-daemon-options.json
+/componentsVersion.json
+/config-options.json
+/ApplicationDesigner
+/wsl
+/docker.tar
+/services.tar
